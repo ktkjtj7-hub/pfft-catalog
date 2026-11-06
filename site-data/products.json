@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T14:45:17.087330+00:00",
+  "checkedAt": "2026-11-06T15:31:44.683671+00:00",
   "products": [
     {
       "id": "12059752",
@@ -431,6 +431,255 @@
       "labelSize": "XS",
       "grade": "A-",
       "notes": "COMME des GARCONS HOMME Gingham Check Shirt"
+    },
+    {
+      "id": "12129948",
+      "title": "헬리녹스 숄더백",
+      "brand": "Helinox",
+      "price": 65000,
+      "status": "selling",
+      "category": "가방",
+      "sub_category": "숄더백",
+      "size": "OS",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-06T14:52:51.000Z",
+      "url": "https://fruitsfamily.com/product/77zj0/%ED%97%AC%EB%A6%AC%EB%85%B9%EC%8A%A4-%EC%88%84%EB%8D%94%EB%B0%B1",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/7vnyy3D3Z-fa815e283d98.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/7vnyy3D3Z-fa815e283d98.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/agfGTyysNv-be7e585b1ad5.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/y7xj4yY7M3-bdff3dadff9a.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/1jqczogEad-d36228b563b4.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/uenZO-25ac-89ff5162c2a8.jpg"
+      ],
+      "measures": [],
+      "labelSize": "Free",
+      "grade": "A-",
+      "notes": "Helinox Shoulder Bag\n- 가로 54\n- 세로 40"
+    },
+    {
+      "id": "12130035",
+      "title": "사카이 반팔 셔츠",
+      "brand": "Sacai",
+      "price": 80000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "셔츠",
+      "size": "2",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-06T14:57:21.000Z",
+      "url": "https://fruitsfamily.com/product/77zlf/%EC%82%AC%EC%B9%B4%EC%9D%B4-%EB%B0%98%ED%8C%94-%EC%85%94%EC%B8%A0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/V8W_8ysxN-a79248ae0282.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/V8W_8ysxN-a79248ae0282.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/y4C9fBY56--fcc52445976b.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/VMQ5tXBDVA-0426ce509338.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/xzrKezOpS3-7d0af051d8e9.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/C6VlnvqcAr-966316cfd040.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "67"
+        ],
+        [
+          "가슴",
+          "49"
+        ],
+        [
+          "어깨",
+          "42"
+        ]
+      ],
+      "labelSize": "2(M)",
+      "grade": "A",
+      "notes": "Sacai Short Sleeve Shirt"
+    },
+    {
+      "id": "12130178",
+      "title": "꼼데가르송 패치워크 셔츠",
+      "brand": "Comme des Garcons",
+      "price": 140000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "셔츠",
+      "size": "M",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-06T15:04:16.000Z",
+      "url": "https://fruitsfamily.com/product/77zpe/%EA%BC%BC%EB%8D%B0%EA%B0%80%EB%A5%B4%EC%86%A1-%ED%8C%A8%EC%B9%98%EC%9B%8C%ED%81%AC-%EC%85%94%EC%B8%A0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/MgG7pQycr-184fffe3ef5c.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/MgG7pQycr-184fffe3ef5c.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/EUtLy8qCua-58ce3e56e247.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/LG-Zw971HU-b6add1d9e277.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/P_zCIbaDf5-23e72e2cc1c0.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/eSpENdZ2nj-14b5ea68270e.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "62"
+        ],
+        [
+          "가슴",
+          "45"
+        ],
+        [
+          "어깨",
+          "39"
+        ]
+      ],
+      "labelSize": "M",
+      "grade": "A-",
+      "notes": "로브 드 샹브르 꼼데가르송 패치워크 셔츠\nrobe de chambre COMME des GARCONS Patchwork Shirt"
+    },
+    {
+      "id": "12130277",
+      "title": "알파인더스트리 N-2B 자켓",
+      "brand": "Alpha Industries",
+      "price": 150000,
+      "status": "selling",
+      "category": "아우터",
+      "sub_category": "봄버/블루종",
+      "size": "M",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-06T15:10:18.000Z",
+      "url": "https://fruitsfamily.com/product/77zs5/%EC%95%8C%ED%8C%8C%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC-n-2b-%EC%9E%90%EC%BC%93",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/7d-Tzaj7t-9628ba2ccd15.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/7d-Tzaj7t-9628ba2ccd15.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/fEMeY1GKGl-9d1c1387f4d8.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/7KjEXvrBMU-2e132988ba09.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/6KKU8qcdMg-b4612702411e.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/jxeyNBOLlT-f7b3160c8138.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/3NL9mZ2Enh-3a60ee497494.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "62"
+        ],
+        [
+          "가슴",
+          "57"
+        ]
+      ],
+      "labelSize": "M",
+      "grade": "A-",
+      "notes": "Alpha Industries N-2B Jacket"
+    },
+    {
+      "id": "12130357",
+      "title": "노스페이스 퍼플라벨 청셔츠",
+      "brand": "The North Face Purple Label",
+      "price": 140000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "셔츠",
+      "size": "M",
+      "condition": "LIGHTLY_WORN",
+      "createdAt": "2026-11-06T15:14:38.000Z",
+      "url": "https://fruitsfamily.com/product/77zud/%EB%85%B8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%ED%8D%BC%ED%94%8C%EB%9D%BC%EB%B2%A8-%EC%B2%AD%EC%85%94%EC%B8%A0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/-z9oJ-t8f-fa2da74274f6.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/-z9oJ-t8f-fa2da74274f6.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/ttZ15ypMJB-32225e27d818.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/giXTjfhbpQ-8c708f6a4617.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/z6Nvl7og1T-969470d21929.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/bwcxgZC9yT-fc14a103b6f0.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/RZ4iMVed1y-5843827c211c.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "70"
+        ],
+        [
+          "가슴",
+          "57"
+        ],
+        [
+          "어깨",
+          "52"
+        ]
+      ],
+      "labelSize": "M",
+      "grade": "B+",
+      "notes": "The North Face Purple Label Denim Shirt"
+    },
+    {
+      "id": "12130432",
+      "title": "사카이 브이넥 반팔티",
+      "brand": "Sacai",
+      "price": 65000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "반팔 티셔츠",
+      "size": "1",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-06T15:20:37.000Z",
+      "url": "https://fruitsfamily.com/product/77zwg/%EC%82%AC%EC%B9%B4%EC%9D%B4-%EB%B8%8C%EC%9D%B4%EB%84%A5-%EB%B0%98%ED%8C%94%ED%8B%B0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/WWikic2eD-42ed51660c53.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/WWikic2eD-42ed51660c53.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/-KAi4BcYQs-db6a7acc2ee6.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/6vH6cv7z6S-72dea3c4da0c.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/JpgxeDPHDy-9b3e47fffe0b.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "65"
+        ],
+        [
+          "가슴",
+          "50"
+        ],
+        [
+          "어깨",
+          "41"
+        ]
+      ],
+      "labelSize": "1(S)",
+      "grade": "A",
+      "notes": "Sacai V-Neck T-Shirt"
+    },
+    {
+      "id": "12130487",
+      "title": "MHL 포켓 반팔티",
+      "brand": "MHL",
+      "price": 45000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "반팔 티셔츠",
+      "size": "2",
+      "condition": "LIGHTLY_WORN",
+      "createdAt": "2026-11-06T15:25:56.000Z",
+      "url": "https://fruitsfamily.com/product/77zxz/mhl-%ED%8F%AC%EC%BC%93-%EB%B0%98%ED%8C%94%ED%8B%B0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/spBlO5OIr-2cd9f6f8263c.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/spBlO5OIr-2cd9f6f8263c.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/Qmj4ZKcEto-a5c1be142c49.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/A8hWJwrTcp-3eb3a2182c02.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/tROG5azXob-af808c375b75.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "59"
+        ],
+        [
+          "가슴",
+          "44"
+        ],
+        [
+          "어깨",
+          "41"
+        ]
+      ],
+      "labelSize": "2(M)",
+      "grade": "B",
+      "notes": "MHL Pocket T-Shirt"
     }
   ]
 }
