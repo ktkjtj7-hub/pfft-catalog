@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T15:31:44.683671+00:00",
+  "checkedAt": "2026-11-06T16:37:22.288228+00:00",
   "products": [
     {
       "id": "12059752",
@@ -399,7 +399,7 @@
       "id": "12076166",
       "title": "꼼데가르송 옴므 깅엄체크 배색 셔츠",
       "brand": "Comme des Garcons Homme",
-      "price": 135000,
+      "price": 120000,
       "status": "selling",
       "category": "상의",
       "sub_category": "셔츠",
@@ -680,6 +680,45 @@
       "labelSize": "2(M)",
       "grade": "B",
       "notes": "MHL Pocket T-Shirt"
+    },
+    {
+      "id": "12130566",
+      "title": "준야 와타나베 셔츠",
+      "brand": "Junya Watanabe",
+      "price": 120000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "셔츠",
+      "size": "XS",
+      "condition": "LIGHTLY_WORN",
+      "createdAt": "2026-11-06T15:32:19.000Z",
+      "url": "https://fruitsfamily.com/product/78006/%EC%A4%80%EC%95%BC-%EC%99%80%ED%83%80%EB%82%98%EB%B2%A0-%EC%85%94%EC%B8%A0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/PTAEMo_fG-d053e25a67d7.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/PTAEMo_fG-d053e25a67d7.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/WaSgJQzrll-6787f2921b41.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/6C9VaDMcNq-e304152f05f9.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/6ttXNKBBiE-2c2d638209e9.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/CQhhbQ44FF-8c19ee8f466f.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/t-OwNUOBkW-97c50a1deee3.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "59"
+        ],
+        [
+          "가슴",
+          "45"
+        ],
+        [
+          "어깨",
+          "37"
+        ]
+      ],
+      "labelSize": "ss",
+      "grade": "B+ (카라 부분 미세 오염)",
+      "notes": "Junya Watanabe Shirt"
     }
   ]
 }
