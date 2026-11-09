@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-09T06:56:58.586266+00:00",
+  "checkedAt": "2026-11-09T08:13:20.767065+00:00",
   "products": [
     {
       "id": "12059752",
@@ -538,7 +538,7 @@
       "title": "알파인더스트리 N-2B 자켓",
       "brand": "Alpha Industries",
       "price": 150000,
-      "status": "selling",
+      "status": "sold",
       "category": "아우터",
       "sub_category": "봄버/블루종",
       "size": "M",
