@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-10T15:30:49.126159+00:00",
+  "checkedAt": "2026-11-10T17:35:37.380553+00:00",
   "products": [
     {
       "id": "12059752",
@@ -293,7 +293,7 @@
       "title": "엔할리우드 블루종 자켓",
       "brand": "N.HOOLYWOOD",
       "price": 125000,
-      "status": "selling",
+      "status": "sold",
       "category": "아우터",
       "sub_category": "봄버/블루종",
       "size": "S",
