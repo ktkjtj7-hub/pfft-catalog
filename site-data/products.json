@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T11:36:49.181636+00:00",
+  "checkedAt": "2026-11-11T19:36:08.062828+00:00",
   "products": [
     {
       "id": "12059752",
@@ -359,7 +359,7 @@
     },
     {
       "id": "12075877",
-      "title": "마가렛 호웰 스트라이프 폴로 셔츠",
+      "title": "마가렛 호웰 스트라이프 폴로 반팔티",
       "brand": "Margaret Howell",
       "price": 65000,
       "status": "selling",
@@ -368,7 +368,7 @@
       "size": "M",
       "condition": "LIGHTLY_WORN",
       "createdAt": "2026-11-04T07:38:19.000Z",
-      "url": "https://fruitsfamily.com/product/76tt1/%EB%A7%88%EA%B0%80%EB%A0%9B-%ED%98%B8%EC%9B%B0-%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%94%84-%ED%8F%B4%EB%A1%9C-%EC%85%94%EC%B8%A0",
+      "url": "https://fruitsfamily.com/product/76tt1/%EB%A7%88%EA%B0%80%EB%A0%9B-%ED%98%B8%EC%9B%B0-%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%94%84-%ED%8F%B4%EB%A1%9C-%EB%B0%98%ED%8C%94%ED%8B%B0",
       "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/IFfPEYzWu-fc2c4d91dad2.jpg",
       "photos": [
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/IFfPEYzWu-fc2c4d91dad2.jpg",
@@ -393,7 +393,7 @@
       ],
       "labelSize": "M",
       "grade": "B (단추 부분 변색)",
-      "notes": "MARGARET HOWELL Striped Polo Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "마가렛 호웰 스트라이프 폴로 티셔츠\nMARGARET HOWELL Striped Polo T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12076166",
@@ -799,7 +799,7 @@
     },
     {
       "id": "12226046",
-      "title": "엔할리우드 브이넥 포켓 티셔츠",
+      "title": "엔할리우드 브이넥 포켓 반팔티",
       "brand": "N.HOOLYWOOD",
       "price": 55000,
       "status": "selling",
@@ -808,7 +808,7 @@
       "size": "S",
       "condition": "WORN",
       "createdAt": "2026-11-11T10:12:02.000Z",
-      "url": "https://fruitsfamily.com/product/7a1oe/%EC%97%94%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EB%B8%8C%EC%9D%B4%EB%84%A5-%ED%8F%AC%EC%BC%93-%ED%8B%B0%EC%85%94%EC%B8%A0",
+      "url": "https://fruitsfamily.com/product/7a1oe/%EC%97%94%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EB%B8%8C%EC%9D%B4%EB%84%A5-%ED%8F%AC%EC%BC%93-%EB%B0%98%ED%8C%94%ED%8B%B0",
       "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/uO1xCiMj4-47e000454c6d.jpg",
       "photos": [
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/uO1xCiMj4-47e000454c6d.jpg",
@@ -832,11 +832,11 @@
       ],
       "labelSize": "36(S)",
       "grade": "C+",
-      "notes": "N.HOOLYWOOD V-Neck Pocket T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "엔할리우드 브이넥 포켓 티셔츠\nN.HOOLYWOOD V-Neck Pocket T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12226087",
-      "title": "엔할리우드 브이넥 티셔츠",
+      "title": "엔할리우드 브이넥 반팔티",
       "brand": "N.HOOLYWOOD",
       "price": 65000,
       "status": "selling",
@@ -845,7 +845,7 @@
       "size": "S",
       "condition": "GOOD_CONDITION",
       "createdAt": "2026-11-11T10:13:25.000Z",
-      "url": "https://fruitsfamily.com/product/7a1pj/%EC%97%94%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EB%B8%8C%EC%9D%B4%EB%84%A5-%ED%8B%B0%EC%85%94%EC%B8%A0",
+      "url": "https://fruitsfamily.com/product/7a1pj/%EC%97%94%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EB%B8%8C%EC%9D%B4%EB%84%A5-%EB%B0%98%ED%8C%94%ED%8B%B0",
       "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/w5TsNQ7Ti-aec13ec9daff.jpg",
       "photos": [
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/w5TsNQ7Ti-aec13ec9daff.jpg",
@@ -869,7 +869,7 @@
       ],
       "labelSize": "36(S)",
       "grade": "A-",
-      "notes": "N.HOOLYWOOD V-Neck T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "엔할리우드 브이넥 티셔츠\nN.HOOLYWOOD V-Neck T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12226169",
