@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T00:24:02.008743+00:00",
+  "checkedAt": "2026-11-13T07:57:43.632493+00:00",
   "products": [
     {
       "id": "12059752",
@@ -192,7 +192,7 @@
       "title": "빔즈 집업 자켓",
       "brand": "Beams",
       "price": 95000,
-      "status": "selling",
+      "status": "sold",
       "category": "아우터",
       "sub_category": "자켓",
       "size": "S",
