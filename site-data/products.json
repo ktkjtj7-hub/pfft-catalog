@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-16T02:08:04.779077+00:00",
+  "checkedAt": "2026-11-16T09:43:44.543317+00:00",
   "products": [
     {
       "id": "12059752",
@@ -14,15 +14,18 @@
       "condition": "WORN",
       "createdAt": "2026-11-03T10:51:03.000Z",
       "url": "https://fruitsfamily.com/product/76hd4/%EA%BC%BC%EB%8D%B0%EA%B0%80%EB%A5%B4%EC%86%A1-%EA%BC%BC%EA%BC%BC-%EB%B0%B0%EC%83%89-%ED%9B%84%EB%93%9C-%EC%9E%90%EC%BC%93",
-      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/qMLZ9aWat-e57ed8a68758.jpg",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/bEpkoc9Bl-42be352fd382.jpg",
       "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/bEpkoc9Bl-42be352fd382.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/qMLZ9aWat-e57ed8a68758.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/a73NhInswI-c80e7fa750e8.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/PDXceJ44EA-5b94cf60c956.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/PFt3ldoX9M-36cd5fedf302.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/217VJoJVBH-2d9bfa364ad5.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/5nk66cEwRQ-a333cbd726bf.jpg",
-        "https://image.production.fruitsfamily.com/public/product/resized%40width620/Vjcl1mvcd6-31ebbd38d2ac.jpg"
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/Vjcl1mvcd6-31ebbd38d2ac.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/ulwQHzT5U7-6a234513b782.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/4mpHvGHKgQ-7431e81b9ca1.jpg"
       ],
       "measures": [
         [
@@ -54,12 +57,14 @@
       "condition": "GOOD_CONDITION",
       "createdAt": "2026-11-03T10:54:28.000Z",
       "url": "https://fruitsfamily.com/product/76hfx/%EC%97%94%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EC%BD%94%EB%93%80%EB%A1%9C%EC%9D%B4-%EC%9E%90%EC%BC%93",
-      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/6vtqZ-zSP-3ce06523d31c.jpg",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/xZEu5CFyJL-09072bff8b4a.jpg",
       "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/xZEu5CFyJL-09072bff8b4a.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/6vtqZ-zSP-3ce06523d31c.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/De9Cok46AU-6eda6f3c4baf.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/lLaCkcsUMZ-9acd0491061e.jpg",
-        "https://image.production.fruitsfamily.com/public/product/resized%40width620/hX-rjkPJPF-9342df46917a.jpg"
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/hX-rjkPJPF-9342df46917a.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/SQrBMQY8kA-73b46b2087fe.jpg"
       ],
       "measures": [
         [
@@ -91,8 +96,9 @@
       "condition": "GOOD_CONDITION",
       "createdAt": "2026-11-03T11:07:18.000Z",
       "url": "https://fruitsfamily.com/product/76hpz/mhl-%EC%95%8C%ED%8C%8C-%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC-%EC%9E%90%EC%BC%93",
-      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/LmFq3aLAv-fdf793211072.jpg",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/r3_ZlLecZ-4d0b50ccbbc2.jpg",
       "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/r3_ZlLecZ-4d0b50ccbbc2.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/LmFq3aLAv-fdf793211072.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/4v1wDkgnDT-fcd7c5713c62.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/Atz4JTHbDR-7636e01079a4.jpg",
@@ -407,12 +413,15 @@
       "condition": "GOOD_CONDITION",
       "createdAt": "2026-11-04T07:48:44.000Z",
       "url": "https://fruitsfamily.com/product/76u12/%EA%BC%BC%EB%8D%B0%EA%B0%80%EB%A5%B4%EC%86%A1-%EC%98%B4%EB%AF%80-%EA%B9%85%EC%97%84%EC%B2%B4%ED%81%AC-%EB%B0%B0%EC%83%89-%EC%85%94%EC%B8%A0",
-      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/0WTqbJx5y-b9952ab3f083.jpg",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/sZCZpRKAl-4ad50e80f23e.jpg",
       "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/sZCZpRKAl-4ad50e80f23e.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/5OGg7Qt871-bc4df8060bc4.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/0WTqbJx5y-b9952ab3f083.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/kgWEeYKMtr-cb0b790336a2.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/4cHYIyieMJ-b80de3179e6e.jpg",
-        "https://image.production.fruitsfamily.com/public/product/resized%40width620/QYWqqeoIHc-d18bc42ad4bd.jpg"
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/QYWqqeoIHc-d18bc42ad4bd.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/-9BEy7pAjm-1c043f7b6b6d.jpg"
       ],
       "measures": [
         [
@@ -507,13 +516,15 @@
       "condition": "GOOD_CONDITION",
       "createdAt": "2026-11-06T15:04:16.000Z",
       "url": "https://fruitsfamily.com/product/77zpe/%EA%BC%BC%EB%8D%B0%EA%B0%80%EB%A5%B4%EC%86%A1-%ED%8C%A8%EC%B9%98%EC%9B%8C%ED%81%AC-%EC%85%94%EC%B8%A0",
-      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/MgG7pQycr-184fffe3ef5c.jpg",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/ZE94gBBO--1285ebdbcfdf.jpg",
       "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/ZE94gBBO--1285ebdbcfdf.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/MgG7pQycr-184fffe3ef5c.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/EUtLy8qCua-58ce3e56e247.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/LG-Zw971HU-b6add1d9e277.jpg",
         "https://image.production.fruitsfamily.com/public/product/resized%40width620/P_zCIbaDf5-23e72e2cc1c0.jpg",
-        "https://image.production.fruitsfamily.com/public/product/resized%40width620/eSpENdZ2nj-14b5ea68270e.jpg"
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/eSpENdZ2nj-14b5ea68270e.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/RIpvSHbJGG-d66568ce1932.jpg"
       ],
       "measures": [
         [
