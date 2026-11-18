@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T04:20:59.269853+00:00",
+  "checkedAt": "2026-11-18T13:58:07.592638+00:00",
   "products": [
     {
       "id": "12059752",
       "title": "꼼데가르송 꼼꼼 배색 후드 자켓",
       "brand": "Comme des Garcons",
-      "price": 170000,
+      "price": 153000,
       "status": "selling",
       "category": "아우터",
       "sub_category": "자켓",
@@ -43,13 +43,13 @@
       ],
       "labelSize": "M",
       "grade": "B (녹색 부분 보풀 존재)",
-      "notes": "COMME des GARÇONS COMME des GARÇONS Color-Blocked Hooded Jacket\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "COMME des GARÇONS COMME des GARÇONS Color-Blocked Hooded Jacket\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12059853",
       "title": "엔할리우드 코듀로이 자켓",
       "brand": "N.HOOLYWOOD",
-      "price": 150000,
+      "price": 135000,
       "status": "selling",
       "category": "아우터",
       "sub_category": "자켓",
@@ -82,13 +82,13 @@
       ],
       "labelSize": "36(S)",
       "grade": "A-",
-      "notes": "N.HOOLYWOOD Corduroy Jacket\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "N.HOOLYWOOD Corduroy Jacket\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12060215",
       "title": "MHL × 알파 인더스트리 자켓",
       "brand": "MHL",
-      "price": 140000,
+      "price": 126000,
       "status": "selling",
       "category": "아우터",
       "sub_category": "자켓",
@@ -121,13 +121,13 @@
       ],
       "labelSize": "1 (S)",
       "grade": "A",
-      "notes": "MHL. × alpha Industries Jacket\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "MHL. × alpha Industries Jacket\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12060330",
       "title": "사카이 니트 자켓",
       "brand": "Sacai",
-      "price": 160000,
+      "price": 144000,
       "status": "selling",
       "category": "아우터",
       "sub_category": "자켓",
@@ -159,13 +159,13 @@
       ],
       "labelSize": "1 (s)",
       "grade": "A",
-      "notes": "sacai Knit Jacket\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "sacai Knit Jacket\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12060473",
       "title": "사카이 퀼팅 플레어 스커트",
       "brand": "Sacai",
-      "price": 140000,
+      "price": 126000,
       "status": "selling",
       "category": "하의",
       "sub_category": "미디 스커트",
@@ -191,7 +191,7 @@
       ],
       "labelSize": "1(S)",
       "grade": "A",
-      "notes": "sacai Quilted Panel Flare Skirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "sacai Quilted Panel Flare Skirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12060572",
@@ -234,7 +234,7 @@
       "id": "12060707",
       "title": "마가렛 호웰 × 미즈노 스니커즈",
       "brand": "Margaret Howell",
-      "price": 130000,
+      "price": 117000,
       "status": "selling",
       "category": "신발",
       "sub_category": "스니커즈",
@@ -254,13 +254,13 @@
       "measures": [],
       "labelSize": "26.5cm (조금 작게 나온 편)",
       "grade": "B+",
-      "notes": "MARGARET HOWELL × MIZUNO Sneakers\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "MARGARET HOWELL × MIZUNO Sneakers\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12075366",
       "title": "엔할리우드 긴팔 셔츠",
       "brand": "N.HOOLYWOOD",
-      "price": 90000,
+      "price": 81000,
       "status": "selling",
       "category": "상의",
       "sub_category": "셔츠",
@@ -292,7 +292,7 @@
       ],
       "labelSize": "36(S)",
       "grade": "A",
-      "notes": "N.HOOLYWOOD Long-Sleeve Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "N.HOOLYWOOD Long-Sleeve Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12075539",
@@ -333,7 +333,7 @@
       "id": "12075718",
       "title": "나나미카 윈드 자켓",
       "brand": "nanamica",
-      "price": 140000,
+      "price": 126000,
       "status": "selling",
       "category": "아우터",
       "sub_category": "바람막이",
@@ -361,13 +361,13 @@
       ],
       "labelSize": "M",
       "grade": "B+",
-      "notes": "nanamica Wind Jacket\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "nanamica Wind Jacket\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12075877",
       "title": "마가렛 호웰 스트라이프 폴로 반팔티",
       "brand": "Margaret Howell",
-      "price": 65000,
+      "price": 58500,
       "status": "selling",
       "category": "상의",
       "sub_category": "반팔 티셔츠",
@@ -399,13 +399,13 @@
       ],
       "labelSize": "M",
       "grade": "B (단추 부분 변색)",
-      "notes": "마가렛 호웰 스트라이프 폴로 티셔츠\nMARGARET HOWELL Striped Polo T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "마가렛 호웰 스트라이프 폴로 티셔츠\nMARGARET HOWELL Striped Polo T-Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12076166",
       "title": "꼼데가르송 옴므 깅엄체크 배색 셔츠",
       "brand": "Comme des Garcons Homme",
-      "price": 120000,
+      "price": 108000,
       "status": "selling",
       "category": "상의",
       "sub_category": "셔츠",
@@ -439,13 +439,13 @@
       ],
       "labelSize": "XS",
       "grade": "A-",
-      "notes": "COMME des GARCONS HOMME Gingham Check Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "COMME des GARCONS HOMME Gingham Check Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12129948",
       "title": "헬리녹스 숄더백",
       "brand": "Helinox",
-      "price": 65000,
+      "price": 58500,
       "status": "selling",
       "category": "가방",
       "sub_category": "숄더백",
@@ -464,13 +464,13 @@
       "measures": [],
       "labelSize": "Free",
       "grade": "A-",
-      "notes": "Helinox Shoulder Bag\n- 가로 54\n- 세로 40\n- 손잡이 30\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "Helinox Shoulder Bag\n- 가로 54\n- 세로 40\n- 손잡이 30\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12130035",
       "title": "사카이 반팔 셔츠",
       "brand": "Sacai",
-      "price": 80000,
+      "price": 72000,
       "status": "selling",
       "category": "상의",
       "sub_category": "셔츠",
@@ -502,13 +502,13 @@
       ],
       "labelSize": "2(M)",
       "grade": "A",
-      "notes": "Sacai Short Sleeve Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "Sacai Short Sleeve Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12130178",
       "title": "꼼데가르송 패치워크 셔츠",
       "brand": "Comme des Garcons",
-      "price": 140000,
+      "price": 126000,
       "status": "selling",
       "category": "상의",
       "sub_category": "셔츠",
@@ -542,7 +542,7 @@
       ],
       "labelSize": "M",
       "grade": "A-",
-      "notes": "로브 드 샹브르 꼼데가르송 패치워크 셔츠\nrobe de chambre COMME des GARCONS Patchwork Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "로브 드 샹브르 꼼데가르송 패치워크 셔츠\nrobe de chambre COMME des GARCONS Patchwork Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12130277",
@@ -583,7 +583,7 @@
       "id": "12130357",
       "title": "노스페이스 퍼플라벨 청셔츠",
       "brand": "The North Face Purple Label",
-      "price": 140000,
+      "price": 126000,
       "status": "selling",
       "category": "상의",
       "sub_category": "셔츠",
@@ -616,13 +616,13 @@
       ],
       "labelSize": "M",
       "grade": "B+",
-      "notes": "The North Face Purple Label Denim Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "The North Face Purple Label Denim Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12130432",
       "title": "사카이 브이넥 반팔티",
       "brand": "Sacai",
-      "price": 65000,
+      "price": 58500,
       "status": "selling",
       "category": "상의",
       "sub_category": "반팔 티셔츠",
@@ -653,13 +653,13 @@
       ],
       "labelSize": "1(S)",
       "grade": "A",
-      "notes": "Sacai V-Neck T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "Sacai V-Neck T-Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12130487",
       "title": "MHL 포켓 반팔티",
       "brand": "MHL",
-      "price": 45000,
+      "price": 40500,
       "status": "selling",
       "category": "상의",
       "sub_category": "반팔 티셔츠",
@@ -690,13 +690,13 @@
       ],
       "labelSize": "2(M)",
       "grade": "B",
-      "notes": "MHL Pocket T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "MHL Pocket T-Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12130566",
       "title": "준야 와타나베 셔츠",
       "brand": "Junya Watanabe",
-      "price": 120000,
+      "price": 108000,
       "status": "selling",
       "category": "상의",
       "sub_category": "셔츠",
@@ -729,13 +729,13 @@
       ],
       "labelSize": "ss",
       "grade": "B+ (카라 부분 미세 오염)",
-      "notes": "Junya Watanabe Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "Junya Watanabe Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12225882",
       "title": "엔할리우드 가디건",
       "brand": "N.HOOLYWOOD",
-      "price": 70000,
+      "price": 63000,
       "status": "selling",
       "category": "상의",
       "sub_category": "가디건",
@@ -768,13 +768,13 @@
       ],
       "labelSize": "38(M)",
       "grade": "C+",
-      "notes": "N.HOOLYWOOD Cardigan\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "N.HOOLYWOOD Cardigan\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12225959",
       "title": "엔할리우드 스웨트 테일러드 자켓",
       "brand": "N.HOOLYWOOD",
-      "price": 105000,
+      "price": 94500,
       "status": "selling",
       "category": "아우터",
       "sub_category": "자켓",
@@ -806,13 +806,13 @@
       ],
       "labelSize": "36(S)",
       "grade": "A-",
-      "notes": "N.HOOLYWOOD Sweat Tailored Jacket\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "N.HOOLYWOOD Sweat Tailored Jacket\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12226046",
       "title": "엔할리우드 브이넥 포켓 반팔티",
       "brand": "N.HOOLYWOOD",
-      "price": 55000,
+      "price": 49500,
       "status": "selling",
       "category": "상의",
       "sub_category": "반팔 티셔츠",
@@ -843,13 +843,13 @@
       ],
       "labelSize": "36(S)",
       "grade": "C+",
-      "notes": "엔할리우드 브이넥 포켓 티셔츠\nN.HOOLYWOOD V-Neck Pocket T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "엔할리우드 브이넥 포켓 티셔츠\nN.HOOLYWOOD V-Neck Pocket T-Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12226087",
       "title": "엔할리우드 브이넥 반팔티",
       "brand": "N.HOOLYWOOD",
-      "price": 65000,
+      "price": 58500,
       "status": "selling",
       "category": "상의",
       "sub_category": "반팔 티셔츠",
@@ -880,13 +880,13 @@
       ],
       "labelSize": "36(S)",
       "grade": "A-",
-      "notes": "엔할리우드 브이넥 티셔츠\nN.HOOLYWOOD V-Neck T-Shirt\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "엔할리우드 브이넥 티셔츠\nN.HOOLYWOOD V-Neck T-Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     },
     {
       "id": "12226169",
       "title": "엔할리우드 47피시즈 후드 집업",
       "brand": "N.HOOLYWOOD",
-      "price": 110000,
+      "price": 99000,
       "status": "selling",
       "category": "아우터",
       "sub_category": "후드집업",
@@ -917,7 +917,7 @@
       ],
       "labelSize": "38(M)",
       "grade": "B+ (소매에 얼룩 존재)",
-      "notes": "N.HOOLYWOOD 47pieces Zip-Up Hoodie\n*매주 수요일에 새상품 업로드 됩니다!"
+      "notes": "N.HOOLYWOOD 47pieces Zip-Up Hoodie\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     }
   ]
 }
