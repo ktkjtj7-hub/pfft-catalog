@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-23T00:54:02.336280+00:00",
+  "checkedAt": "2026-11-23T09:05:05.590655+00:00",
   "products": [
     {
       "id": "12059752",
@@ -774,8 +774,8 @@
       "id": "12225959",
       "title": "엔할리우드 스웨트 테일러드 자켓",
       "brand": "N.HOOLYWOOD",
-      "price": 94500,
-      "status": "selling",
+      "price": 90000,
+      "status": "sold",
       "category": "아우터",
       "sub_category": "자켓",
       "size": "S",
