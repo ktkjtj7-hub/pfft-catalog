@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-25T02:28:42.008414+00:00",
+  "checkedAt": "2026-11-25T11:16:47.615699+00:00",
   "products": [
     {
       "id": "12059752",
@@ -918,6 +918,248 @@
       "labelSize": "38(M)",
       "grade": "B+ (소매에 얼룩 존재)",
       "notes": "N.HOOLYWOOD 47pieces Zip-Up Hoodie\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
+    },
+    {
+      "id": "12507269",
+      "title": "사카이 스트라이프 니트",
+      "brand": "Sacai",
+      "price": 135000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "니트",
+      "size": "1",
+      "condition": "LIGHTLY_WORN",
+      "createdAt": "2026-11-25T04:34:05.000Z",
+      "url": "https://fruitsfamily.com/product/7g2o5/%EC%82%AC%EC%B9%B4%EC%9D%B4-%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%94%84-%EB%8B%88%ED%8A%B8",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/9q_m5mGAh-c5923a60f4d8.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/9q_m5mGAh-c5923a60f4d8.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/uE2RDLCwzf-4ea3828b3be0.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/h76FRiK4S1-80c81d063bd9.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/vqmxo5FxFt-70ceb0dd41ed.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/QA2UvBJBcB-102c31a804e9.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/F4dpFs2Nr-58dcc65603d9.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "65"
+        ],
+        [
+          "가슴",
+          "48"
+        ]
+      ],
+      "labelSize": "1(S)",
+      "grade": "B",
+      "notes": "sacai Striped Knit Sweater\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
+    },
+    {
+      "id": "12507338",
+      "title": "나나미카 N8 블루종 자켓",
+      "brand": "nanamica",
+      "price": 180000,
+      "status": "selling",
+      "category": "아우터",
+      "sub_category": "봄버/블루종",
+      "size": "M",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-25T04:37:33.000Z",
+      "url": "https://fruitsfamily.com/product/7g2q2/%EB%82%98%EB%82%98%EB%AF%B8%EC%B9%B4-n8-%EB%B8%94%EB%A3%A8%EC%A2%85-%EC%9E%90%EC%BC%93",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/qrpXrkFRb-d6cf4e261e1e.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/qrpXrkFRb-d6cf4e261e1e.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/ydn3QLZkVj-58bf73e11d5e.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/VK6y0V6Y4Z-ac2c124ee3ab.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/Lof0CXh0Dd-e1a0f34b5946.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/K1gFlT_lkB-e60c1172b46c.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/u784-G9R1u-03126b97d02d.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/sypPVFYtGY-6a30f82b4c5b.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/9BrRa2Jg4U-71e56e4d89bb.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/dn2HjTDZSW-f4a0e4b4c831.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/H1a2QTyqtO-cd596df1dea7.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "60"
+        ],
+        [
+          "가슴",
+          "55"
+        ],
+        [
+          "어깨",
+          "46"
+        ]
+      ],
+      "labelSize": "M",
+      "grade": "A-",
+      "notes": "nanamica N8-Jacket\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
+    },
+    {
+      "id": "12507401",
+      "title": "엔할리우드 밀리터리 캔버스 토트백",
+      "brand": "N.HOOLYWOOD",
+      "price": 126000,
+      "status": "selling",
+      "category": "가방",
+      "sub_category": "토트백",
+      "size": "OS",
+      "condition": "LIGHTLY_WORN",
+      "createdAt": "2026-11-25T04:41:22.000Z",
+      "url": "https://fruitsfamily.com/product/7g2rt/%EC%97%94%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EB%B0%80%EB%A6%AC%ED%84%B0%EB%A6%AC-%EC%BA%94%EB%B2%84%EC%8A%A4-%ED%86%A0%ED%8A%B8%EB%B0%B1",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/0QgSPC6X3-4ce6768093b7.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/0QgSPC6X3-4ce6768093b7.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/Gae7ufuzEq-754ea32bd8a6.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/bpWls_xypB-89ff42771cc3.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/6lzX5CzsLp-4bcf29b7dddb.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/Juij7e_qND-a9a140f30168.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/5R0tF6bSu-0e273d17972f.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/xuwni0KoNv-ad4d0a89c2b7.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/XnfEcEaSRa-fe65ec065960.jpg"
+      ],
+      "measures": [
+        [
+          "가로(위)",
+          "45"
+        ],
+        [
+          "세로",
+          "32"
+        ],
+        [
+          "가로(아래)",
+          "32"
+        ],
+        [
+          "손잡이",
+          "24"
+        ]
+      ],
+      "labelSize": "Free",
+      "grade": "B+ (얼룩 존재)",
+      "notes": "N.HOOLYWOOD Military Canvas Tote Bag\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
+    },
+    {
+      "id": "12507461",
+      "title": "엔할리우드 포켓 셔츠",
+      "brand": "N.HOOLYWOOD",
+      "price": 85500,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "셔츠",
+      "size": "M",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-25T04:44:26.000Z",
+      "url": "https://fruitsfamily.com/product/7g2th/%EC%97%94%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%ED%8F%AC%EC%BC%93-%EC%85%94%EC%B8%A0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/R3IdClYaT-c89a25f6231c.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/R3IdClYaT-c89a25f6231c.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/CQVaP6JGPc-d7c4c6fa106f.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/aNpk--aC7w-2e0f2277f44f.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/G_yDIFtJoy-d1dc77840d11.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/8g2jfi7_-8-4036d0d480bd.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/W_zc0oe5ks-99872537469b.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "66"
+        ],
+        [
+          "가슴",
+          "50"
+        ],
+        [
+          "어깨",
+          "44"
+        ]
+      ],
+      "labelSize": "38(M)",
+      "grade": "A-",
+      "notes": "N.HOOLYWOOD Pocket Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
+    },
+    {
+      "id": "12507526",
+      "title": "나나미카 윈드 셔츠",
+      "brand": "nanamica",
+      "price": 99000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "셔츠",
+      "size": "S",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-25T04:47:23.000Z",
+      "url": "https://fruitsfamily.com/product/7g2va/%EB%82%98%EB%82%98%EB%AF%B8%EC%B9%B4-%EC%9C%88%EB%93%9C-%EC%85%94%EC%B8%A0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/x30snt1NB-07efeb270019.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/x30snt1NB-07efeb270019.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/hpTAa0aZpe-031fc6fea054.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/63ZfKY-WLn-709330773c34.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/3S_uWKdhSC-dfb9200fa3c9.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/9T_qgPzVks-ab7b8e9b3bc3.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/H-hWW8rnJw-4d6923cc0c4b.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/SmD_yU0zfK-47fb80bb4565.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/_3MTyer6Oq-500e7a3d3ada.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/1sfKH19IcS-0ce79c836714.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/50-7YuGKeQ-52a8454ea7ef.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "67"
+        ],
+        [
+          "가슴",
+          "50"
+        ],
+        [
+          "어깨",
+          "42"
+        ]
+      ],
+      "labelSize": "S",
+      "grade": "A-",
+      "notes": "nanamica Wind Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
+    },
+    {
+      "id": "12507567",
+      "title": "엔할리우드 반팔 셔츠",
+      "brand": "N.HOOLYWOOD",
+      "price": 54000,
+      "status": "selling",
+      "category": "상의",
+      "sub_category": "셔츠",
+      "size": "M",
+      "condition": "GOOD_CONDITION",
+      "createdAt": "2026-11-25T04:49:26.000Z",
+      "url": "https://fruitsfamily.com/product/7g2wf/%EC%97%94%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EB%B0%98%ED%8C%94-%EC%85%94%EC%B8%A0",
+      "image": "https://image.production.fruitsfamily.com/public/product/resized%40width620/1Y0uoT2nt-6768a6ce724a.jpg",
+      "photos": [
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/1Y0uoT2nt-6768a6ce724a.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/T53osCnNaG-0e309fdc2cdc.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/SsK0x4V8KQ-16153a62e872.jpg",
+        "https://image.production.fruitsfamily.com/public/product/resized%40width620/O8L3_x1eHx-1106d32dd575.jpg"
+      ],
+      "measures": [
+        [
+          "총장",
+          "67"
+        ],
+        [
+          "가슴",
+          "49"
+        ],
+        [
+          "어깨",
+          "40"
+        ]
+      ],
+      "labelSize": "38(M)",
+      "grade": "A-",
+      "notes": "N.HOOLYWOOD Short-Sleeve Shirt\n*오픈 기념으로 11월 한 달간 전 제품 10% 할인을 진행합니다!\n*매주 수요일에 새상품 업로드 됩니다!"
     }
   ]
 }
