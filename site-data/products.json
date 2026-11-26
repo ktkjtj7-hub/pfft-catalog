@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-26T05:04:05.872072+00:00",
+  "checkedAt": "2026-11-26T15:16:22.153584+00:00",
   "products": [
     {
       "id": "12059752",
@@ -887,7 +887,7 @@
       "title": "엔할리우드 47피시즈 후드 집업",
       "brand": "N.HOOLYWOOD",
       "price": 99000,
-      "status": "selling",
+      "status": "sold",
       "category": "아우터",
       "sub_category": "후드집업",
       "size": "M",
@@ -1002,7 +1002,7 @@
       "title": "엔할리우드 밀리터리 캔버스 토트백",
       "brand": "N.HOOLYWOOD",
       "price": 126000,
-      "status": "selling",
+      "status": "sold",
       "category": "가방",
       "sub_category": "토트백",
       "size": "OS",
